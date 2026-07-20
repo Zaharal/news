@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "login": "admin",
+    "passwordHash": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918",
+    "fio": "Иванов Иван Иванович",
+    "email": "admin@example.com",
+    "role": "admin",
+    "registeredAt": "2026-07-20T15:19:00.111Z",
+    "lastLoginAt": "2026-07-20T15:19:34.536Z"
+  },
+  {
+    "id": 2,
+    "login": "editor",
+    "passwordHash": "1553cc62ff246044c683a61e203e65541990e7fcd4af9443d22b9557ecc9ac54",
+    "fio": "Петров Пётр Петрович",
+    "email": "editor@example.com",
+    "role": "editor",
+    "registeredAt": "2026-07-20T15:19:00.111Z",
+    "lastLoginAt": null
+  }
+]
